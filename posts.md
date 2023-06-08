@@ -1,0 +1,7 @@
+---
+layout: list
+title: Posts
+description: >
+  포스팅 전체보기 
+grouped: true
+---
