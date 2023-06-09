@@ -58,6 +58,8 @@ menu:
       url:             /kotlin/
     - title:           Algorithm
       url:             /algorithm/
+    - title:           TroubleShooting
+      url:             /trouble_shooting/  
   - title:             Projects
     url:               /projects/
 #  - title:             SubCategory
