@@ -61,7 +61,6 @@ The 14th  IT Festival S/W Idea Competition[PM] 2019 </a></strong></u>
 ---
 ![pejimoa_main](../assets/img/project_img/pejimoa/pejimoa_main.png)
 
-## Work Experiences
 ---
 <!-- -2020. 07 – 2020. 11-->
 <!--Work place name and what i did -->
