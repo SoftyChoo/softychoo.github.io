@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Kotlin-Start
-image: /assets/img/kotlin_img/kotlin.png
+image: /assets/img/algorithm_img/algorithm.jpeg
 accent_image: 
-  background: url('/assets/img/algorithm_img/algorithm.jpeg') center/cover
+  background: url('/assets/img/change_img/book.jpg') center/cover
   overlay: false
 accent_color: '#ccc'
 theme_color: '#ccc'
