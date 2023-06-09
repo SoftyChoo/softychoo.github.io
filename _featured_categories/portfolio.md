@@ -17,6 +17,7 @@ Minsu Choo
 
 <br>
 ## Personal Data
+
 ---
 > 1999.05.02 대한민국 <br/>
 > contact : devsoftychoo@gmail.com <br/>
@@ -27,7 +28,24 @@ Minsu Choo
 >
 > 정보통신공학 (Information and Communication ENGINEERING)
 
+## Awards
+---
+
+* 2022 빛가람에너지밸리 소프트웨어 소프트웨어 작품 경진대회[PM] 2019 </a></strong></u>
+
+- 주최, 주관: 한전KDN(주)
+- an encouragement award      
+
+The 14th  IT Festival S/W Idea Competition[PM] 2019 </a></strong></u>
+
+- 주최, 주관: 조선대학교
+
+- BRONZE PRIZE
+
+
+
 ## Research Interest
+
 ---
 * Computer Vision
 + image Object Detection
@@ -41,10 +59,7 @@ Minsu Choo
 
 ## Project
 ---
-* **Visual Object Tracking Using Plenoptic Image Sequences**
-* **FPV Swlf-driving RC Car**
-* **Anti Drone AI Robot using object detection**
-* **AI Mashroom Classificator App**
+![image-20230609185135301](../assets/img/blog/image-20230609185135301.png)<a href="https://www.youtube.com/watch?v=-ofj2vTvH0Q/"></a>  
 
 ## Work Experiences
 ---
