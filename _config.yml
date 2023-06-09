@@ -59,7 +59,7 @@ menu:
     - title:           Algorithm
       url:             /algorithm/
     - title:           TroubleShooting
-      url:             /trouble_shooting/  
+      url:             /troubleshooting/  
   - title:             Projects
     url:               /projects/
 #  - title:             SubCategory

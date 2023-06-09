@@ -2,7 +2,7 @@
 layout: list
 category: devlog
 bigtitle: TroubleShooting
-slug: trouble_shooting
+slug: troubleshooting
 description: >
     문제 해결
 related_posts:

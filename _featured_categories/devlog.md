@@ -22,7 +22,7 @@ description: >
 
 [Kotlin]: /kotlin/
 [Algorithm]: /algorithm/
-[TroubleShooting] : /trouble_shooting/
+[TroubleShooting] : /troubleshooting/
 
 
 
