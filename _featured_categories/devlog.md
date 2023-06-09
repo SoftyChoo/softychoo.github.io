@@ -20,4 +20,4 @@ description: >
 * [Algorithm] <--- Coding Test
 
 [Kotlin]: /kotlin/
-[Algorithm]: /algorithm/ 
+[Algorithm]: /algorithm/

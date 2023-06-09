@@ -53,7 +53,5 @@ Minsu Choo
 
 ## Skills and Certification
 ---
--Languages : Kotlin, Java, Android Studio, C++, C <br/>
--FrameWork: Spring,  Tensorflow(Keras) <br/>
--Certification : 정보처리기사
+-Languages : Kotlin, Java, Android Studio, C++, C <br/>-Development Tools: Android Studio, VS Code, Visual Studio<br/>-Collaboration Platforms: GitHub<br/>-Documentation Tools: Typora<br/>-Backend Services: Firebase<br/>-Frameworks: Flutter<br/>-Certification : 정보처리기사
 
