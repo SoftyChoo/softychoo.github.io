@@ -59,7 +59,7 @@ The 14th  IT Festival S/W Idea Competition[PM] 2019 </a></strong></u>
 
 ## Project
 ---
-![image-20230609185135301](../assets/img/blog/image-20230609185135301.png)<a href="https://www.youtube.com/watch?v=-ofj2vTvH0Q/"></a>  
+![pejimoa_main](../assets/img/project_img/pejimoa/pejimoa_main.png)
 
 ## Work Experiences
 ---
