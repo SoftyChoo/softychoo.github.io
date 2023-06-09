@@ -18,11 +18,12 @@ description: >
 
 * [Kotlin] <--- Android
 * [Algorithm] <--- Coding Test
-* [TroubleShooting] <--- 문제해결
+* [TroubleShooting] <--- Coding Test
 
 [Kotlin]: /kotlin/
 [Algorithm]: /algorithm/
-[TroubleShooting] : /troubleshooting/
+[TroubleShooting]: /troubleshooting/
+
 
 
 
