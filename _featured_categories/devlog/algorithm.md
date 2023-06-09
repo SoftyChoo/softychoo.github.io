@@ -2,7 +2,7 @@
 layout: list
 category: devlog
 bigtitle: Algorithm
-slug: Algorithm
+slug: algorithm
 description: >
     codingtest
 related_posts:
