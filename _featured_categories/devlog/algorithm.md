@@ -4,7 +4,7 @@ category: devlog
 bigtitle: Algorithm
 slug: algorithm
 description: >
-    codingtest
+    Algorithmic Adventure
 related_posts:
     - Algorithmic Adventure
 list: true
