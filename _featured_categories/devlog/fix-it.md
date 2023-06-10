@@ -1,8 +1,8 @@
 ---
 layout: list
 category: devlog
-bigtitle: Fixit
-slug: fixit
+bigtitle: Fix-ㅑt
+slug: fix-it
 description: >
     문제 해결
 related_posts:
