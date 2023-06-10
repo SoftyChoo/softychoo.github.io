@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kotlin-Start
-image: /assets/img/algorithm_img/algorithm.png
+image: /assets/img/algorithm_img/algorithm2.png
 accent_image: 
   background: url('/assets/img/change_img/book.jpg') center/cover
   overlay: false
