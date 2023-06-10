@@ -4,7 +4,7 @@ category: devlog
 bigtitle: Fix-ㅑt
 slug: fix-it
 description: >
-    문제 해결
+    Programming Puzzles
 related_posts:
     - 
 list: true
