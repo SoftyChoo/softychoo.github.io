@@ -4,9 +4,11 @@ category: devlog
 bigtitle: Kotlin
 slug: kotlin
 description: >
-    코틀린 배우기
+    Android Application Development Playground
 related_posts:
     - 
 list: true
 order: 1
 ---
+
+ 
