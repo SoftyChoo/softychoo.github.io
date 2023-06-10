@@ -7,7 +7,7 @@ menu: true
 submenu: true
 
 description: >
-    개발기록
+    softychoo 개발에 관한 모든 과정 기록노트
 ---
 
 
