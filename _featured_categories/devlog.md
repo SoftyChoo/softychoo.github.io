@@ -16,13 +16,13 @@ description: >
 
 ## categories
 
-* [Kotlin] <--- Android
-* [Algorithm] <--- Coding Test
-* [TroubleShooting] <--- Coding Test
+* [Kotlin] ⬅ Go to **Android Application Development Playground !!**
+* [Algorithm] ⬅ Go to **Algorithmic Adventure !!**
+* [Fix-It] ⬅ Go to **Programming Puzzles !!**
 
 [Kotlin]: /kotlin/
 [Algorithm]: /algorithm/
-[TroubleShooting]: /troubleshooting/
+[Fix-It]: /fix-it/
 
 
 
