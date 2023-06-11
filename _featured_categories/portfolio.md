@@ -59,9 +59,27 @@ The 14th  IT Festival S/W Idea Competition[PM] 2019 </a></strong></u>
 
 ## Project
 ---
-![pejimoa_main](../assets/img/project_img/pejimoa/pejimoa_main.png){: width="40%" height="auto"}
+![pejimoa_main](../assets/img/blog/pejimoa_main-6470877.png){: width="50%" height="auto" .aline-left}
+
+![pejimoa_main](../assets/img/blog/pejimoa_main-6470585.png){: width="50%" height="auto" .aline-right}
 
 **"폐지모아"**
+
+
+
+
+
+![pejimoa_main](../assets/img/project_img/pejimoa/pejimoa_main.png){: width="50%" height="auto" .aline-left}
+
+**"폐지모아"** 어ㄷ쩌거고오
+
+![pejimoa_main](../assets/img/blog/pejimoa_main-6470585.png){: width="50%" height="auto" .aline-right}
+
+**"폐지모아"**
+
+
+
+
 
 ---
 <!-- -2020. 07 – 2020. 11-->
