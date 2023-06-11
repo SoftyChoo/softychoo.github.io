@@ -1,5 +1,11 @@
 {% assign plugins = site.plugins | default:site.gems %}
 
+<style>
+    .author-picture {
+      width: 250px; /* 원하는 가로 크기 */
+      height: auto; /* 세로 크기는 가로 크기에 따라 자동 조정됨 */
+    }
+</style> <!--내가 추가함-->
 <div class="author mt4" style="margin: 10px;">
   {% assign author = include.author %}
 
@@ -15,6 +21,8 @@
         {% if author.picture %}
             {% include_cached components/hy-img.html class="avatar" img=author.picture alt=author.name width="250" height="250" %}
         {% endif %}
+
+
     <!-- 글 -->
     <div class="author-body-description" >
         <span style = " font-size:2.0em;  color: rgb(0, 0, 0);"><strong>{{ author.name | markdownify }}</strong></span>
