@@ -59,7 +59,9 @@ The 14th  IT Festival S/W Idea Competition[PM] 2019 </a></strong></u>
 
 ## Project
 ---
-![pejimoa_main](../assets/img/project_img/pejimoa/pejimoa_main.png)
+![pejimoa_main](../assets/img/project_img/pejimoa/pejimoa_main.png){: width="40%" height="auto"}
+
+**"폐지모아"**
 
 ---
 <!-- -2020. 07 – 2020. 11-->
