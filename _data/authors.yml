@@ -2,12 +2,12 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:                  Minsu Choo 
+  name:                      Minsu Choo 
   email:             devsoftychoo@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:                안녕하세요 어플리케이션 개발자 추민수입니다.<br/>   :)
+  about:                   안녕하세요 어플리케이션 개발자 추민수입니다.<br/>        개발자 블로그를 운영하고 있습니다 :)
 
 
   # This photo will be used in the about section
