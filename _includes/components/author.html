@@ -16,13 +16,13 @@
             {% include_cached components/hy-img.html class="avatar" img=author.picture alt=author.name width="250" height="250" %}
         {% endif %}
 
-
     <!-- 글 -->
     <div class="author-body-description" >
         <span style = " font-size:1.4em;  color: rgb(0, 0, 0);"><strong>{{ author.name | markdownify }}</strong></span>
         <b style = "font-size:0.8em; color: rgb(141, 141, 141);">{{ author.about | markdownify }}</b>
     </div>
     <!--소셜-->
+    <br/>
     <div class="sidebar-social">
     <div class="sidebar-social">
         {% include components/social.html author=author %}
