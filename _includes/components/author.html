@@ -11,10 +11,9 @@
 
 <!--게시물 밑에 작성자 -->
     <br/>
-    <br/>
     <!-- 프로필 이미지 -->
         {% if author.picture %}
-            {% include_cached components/hy-img.html class="avatar" img=author.picture alt=author.name width="250" height="auto" %}
+            {% include_cached components/hy-img.html class="avatar" img=author.picture alt=author.name width="250" height="250" %}
         {% endif %}
     <!-- 글 -->
     <div class="author-body-description" >
