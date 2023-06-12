@@ -31,16 +31,10 @@ Minsu Choo
 ## Awards
 ---
 
-* 2022 빛가람에너지밸리 소프트웨어 소프트웨어 작품 경진대회[PM] 2019 </a></strong></u>
+2022 빛가람에너지밸리 소프트웨어 소프트웨어 작품 경진대회[PM] 2019 </a></strong></u>
 
 - 주최, 주관: 한전KDN(주)
-- an encouragement award      
-
-The 14th  IT Festival S/W Idea Competition[PM] 2019 </a></strong></u>
-
-- 주최, 주관: 조선대학교
-
-- BRONZE PRIZE
+- an encouragement award
 
 
 
