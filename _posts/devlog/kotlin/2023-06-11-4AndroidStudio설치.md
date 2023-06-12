@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Start AndroidStudio
+title: AndroidStudio Install
 image: /assets/img/kotlin_img/kotlin.png
 accent_image: 
   background: url('/assets/img/change_img/book.jpg') center/cover
