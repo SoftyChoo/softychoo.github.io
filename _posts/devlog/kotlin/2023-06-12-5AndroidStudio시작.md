@@ -180,13 +180,9 @@ setContentView(R.layout.activity_main)
 
 [Code] 모드
 
-
-
 ![img](https://190938973-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fa4oGyVd5h5iQeplBqkqY%2Fuploads%2FZixE9AvNE25gJn3RnKhm%2Fimage.png?alt=media&token=c3336b08-0ecf-40fc-8618-c7b78a77143a)
 
 [Split] 모드
-
-
 
 ![img](https://190938973-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fa4oGyVd5h5iQeplBqkqY%2Fuploads%2F3NyWd2DQEwsJsXv7IsXZ%2Fimage.png?alt=media&token=97bda188-a865-4691-b06b-1d434c6522ca)
 
@@ -212,23 +208,17 @@ setContentView(R.layout.activity_main)
 
   - 예를 들어 위 그림에서 표시된 "44"라는 숫자는 44dp(Device independence Pixel)만큼 떨어져 있다는 의미이다.
 
-
-
 - 컨스트레인트 편집기에서 좌 우측에 있는 +를 클릭한다. 편집기 화면이 다음의 좌측 그림과 같이 연결된 형태로 바뀌고, 디자인 화면에서도 버튼의 양쪽으로 화살표가 화면 끝까지 이어진다.
 
   ![img](https://190938973-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fa4oGyVd5h5iQeplBqkqY%2Fuploads%2F6oKbEZsCuogN9FFoIZTW%2Fimage.png?alt=media&token=961cf6cf-8e8d-465f-bafd-394b5838e6b9)
 
   ![img](https://190938973-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fa4oGyVd5h5iQeplBqkqY%2Fuploads%2FEsL79hSkUjqhMCyvuDBL%2Fimage.png?alt=media&token=6696fc42-9ea2-4102-a243-123db8dead32)
 
-
-
 - 이번에는 컨스트레인트 편집기에서 좌 우측의 값을 0으로 바꿔보도록 하겠다. 그리고 layout_width를 0dp로 바꿔준다. (버튼의 영역이 화면(가로)을 꽉 채워진 것을 확인할 수 있다.)
 
 ![img](https://190938973-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fa4oGyVd5h5iQeplBqkqY%2Fuploads%2FmeW2io6NIFJ1LJ7wbAed%2Fimage.png?alt=media&token=19f65e3a-3534-4440-aec0-4978e54780d6)
 
 ![img](https://190938973-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fa4oGyVd5h5iQeplBqkqY%2Fuploads%2FgUVLdaZ367mcBja1zREE%2Fimage.png?alt=media&token=b897e818-5566-4881-a99d-53399ea5e797)
-
-
 
 #### 여기서 잠깐!
 
@@ -262,8 +252,6 @@ setContentView(R.layout.activity_main)
 
 - 뷰 바인딩을 사용하는 방법을 간략하게 보고 바로 실습해보겠다.
 
-
-
 1. build.gradle(Module: app) 파일에 viewBinding 설정을 추가한다.
 
 ![img](https://190938973-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fa4oGyVd5h5iQeplBqkqY%2Fuploads%2F7AybyB4kBjNrxMuKiMRu%2Fimage.png?alt=media&token=bf86ad45-177c-479a-bcee-e499bf2a8882)
@@ -280,7 +268,7 @@ setContentView(R.layout.activity_main)
 
 - 예) activity_main.xml = ActivityMainBinding
 
-
+  
 
 - 이제 MainActivity.kt 파일을 다음과 같이 작성한다!
 
