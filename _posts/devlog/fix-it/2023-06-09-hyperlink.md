@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kotlin-Start
-image: /assets/img/troubleshooting_img/hyperlink.png
+image: /assets/img/fixit_img/hyperlink.png
 accent_image: 
   background: url('/assets/img/change_img/book.jpg') center/cover
   overlay: false
@@ -19,5 +19,6 @@ categories :
 
 # HyperLink 추가하기
 
-깃허브 블로그를 수정하다가 문득 Portfolio의 Project에 글 만 적혀있는 것이 아니라 사진과 함께 하이퍼링크가 걸려있다면 가독성과 눌러보고 싶은 궁금증을 유발할 수 있을 것 같아서 HyperLink를 추가하려고 한다.
+Portfolio의 Project를 수정하던 중 프로젝트명만 적혀있는 것이 가시성이 떨어진다고 판단해 사진과 함께 하이퍼링크를 추가한다면 가시성 향상과 더불어 관심도 유발하는 효과가 있을 것 같아 사진과 HyperLink 추가하기로 하였다.
+
 
