@@ -37,9 +37,7 @@ Minsu Choo
 - an encouragement award
 
 
-
-## Research Interest
-
+<!--## Research Interest
 ---
 * Computer Vision
 + image Object Detection
@@ -49,7 +47,8 @@ Minsu Choo
 * Machine Learning / Deep Learning
 + GAN
 + Few-Shot Learning
-+ Meta Learning
++ Meta Learning-->
+
 
 ## Project
 ---
