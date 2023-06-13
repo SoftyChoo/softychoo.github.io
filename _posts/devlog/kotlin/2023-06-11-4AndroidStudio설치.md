@@ -8,7 +8,7 @@ accent_image:
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
-  4.Android Studio 시작!
+  4.Android Studio 설치!
 invert_sidebar: true
 categories :
  - devlog

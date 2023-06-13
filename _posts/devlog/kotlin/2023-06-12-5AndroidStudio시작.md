@@ -8,7 +8,7 @@ accent_image:
 accent_color: '#fff'
 theme_color: '#fff'
 description: >
-  kotlin start!
+  5.Android Studio 설치!
 invert_sidebar: true
 categories :
  - devlog	
