@@ -2,21 +2,9 @@
 
 {% if author.about %}
   <aside class="about related mt4 mb4" role="complementary">
-    {% assign author = include.author %}
 
     {% assign about_heading = site.data.strings.about | default:"About" %}
     {% include components/author.html author=author heading=about_heading heading_tag='h2' %}
-
-    <{{ heading_tag }} {% if heading_id %}id="{{ heading_id }}"{% endif %} class="page-title hr-bottom">
-    {{ include.heading | default:author.name }}
-    </{{ heading_tag }}>
-
-   <style>
-    .centered-text {
-        text-align: center;
-    }
-  </style>
-
   </aside>
 
 {% endif %}
