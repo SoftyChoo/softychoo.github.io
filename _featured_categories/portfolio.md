@@ -8,10 +8,11 @@ hide_description: false
 ## Profile
 
 <!--author-->
+<center>
+<span style="font-size:170%;font-weight:bold;">
+Minsu Choo</span>
+</center>
 
-<span style="font-size:170%;font-weight:bold;align=center">
-Minsu Choo
-</span>
 
 
 <br>
