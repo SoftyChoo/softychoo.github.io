@@ -3,7 +3,7 @@
 <div class="author mt4" style="margin: 10px;">
   {% assign author = include.author %}
 
-  {% assign heading_tag = include.heading_tag | default:'h2' %}
+  {% assign heading_tag = incude.healding_tag | default:'h2' %}
   {% assign heading_id = include.heading_id %}
   <{{ heading_tag }} {% if heading_id %}id="{{ heading_id }}"{% endif %} class="page-title hr-bottom">
     {{ include.heading | default:author.name }}
