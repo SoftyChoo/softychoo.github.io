@@ -52,9 +52,9 @@ Minsu Choo
 
 ## Project
 ---
-![peji_img](../assets/img/blog/peji_img.png){: width="49%" height="auto" align="left"}
+![peji_img](../assets/img/blog/peji_img.png){: width="49.9%" height="auto" align="left"}
 
-![box_img](../assets/img/blog/box_img.png){: width="49%" height="auto" align="right"}<br/>
+![box_img](../assets/img/blog/box_img.png){: width="49.9%" height="auto" align="right"}<br/>
 
 [폐지모아](https://softychoo.github.io/projects/2022-11-30-pejimoa/)<br/>자원 재생 활동가의 활동환경을 개선하고, 환경 보호 측면에서 무분별하게 버려지는 재활용 쓰레기들의 처리를 용이하게 하여 상가상인, 자원재생활동가 모두에게 도움을 주기위해 기획된 어플리케이션
 
