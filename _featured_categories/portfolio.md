@@ -1,6 +1,6 @@
 ---
 layout: about
-image: /assets/img/me.png
+
 hide_description: false
 
 ---
