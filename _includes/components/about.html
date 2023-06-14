@@ -4,5 +4,20 @@
   <aside class="about related mt4 mb4" role="complementary">
     {% assign about_heading = site.data.strings.about | default:"About" %}
     {% include components/author.html author=author heading=about_heading heading_tag='h2' %}
+    
+
+    <style>
+      .centered-text {
+          text-align: center;
+      }
+    </style>
+    <div class="author-body-description centered-text" >
+      <span style = " font-size:1.4em;  color: rgb(0, 0, 0);"><strong>{{ author.name | markdownify }}</strong></span>
+      <b style = "font-size:0.8em; color: rgb(141, 141, 141);">{{ author.about | markdownify }}</b>
+  </div>
+
+
   </aside>
+
 {% endif %}
+
