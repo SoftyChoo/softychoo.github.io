@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Start AndroidStudio
-image: /assets/img/blog/kotlin/kotlin.png
+image: /assets/img/kotlin_img/kotlin.png
 accent_image: 
-  background: url('/assets/img/me/wave3.jpg') center/cover
+  background: url('/assets/img/change_img/book.jpg') center/cover
   overlay: false
 accent_color: '#fff'
 theme_color: '#fff'

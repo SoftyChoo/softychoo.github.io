@@ -90,3 +90,8 @@ centered-text
 
 - 다음 사진을 참고해서 변경을 해주게 되면
 
+![fixabout3](../../../assets/img/blog/fixabout3.png)
+
+- 이렇게! (U+2002)를 사용하지 않고도 깔끔한 중앙정렬이 완성되었다 :)
+
+  
