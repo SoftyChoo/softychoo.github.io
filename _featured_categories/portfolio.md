@@ -9,8 +9,7 @@ hide_description: false
 
 <!--author-->
 
-
-<span style="font-size:170%;font-weight:bold;margin-left:50px">
+<span style="font-size:170%;font-weight:bold;align=center">
 Minsu Choo
 </span>
 
