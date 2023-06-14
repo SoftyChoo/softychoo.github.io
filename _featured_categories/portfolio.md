@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: author
 image: /assets/img/me.png
 description: >
 hide_description: true
