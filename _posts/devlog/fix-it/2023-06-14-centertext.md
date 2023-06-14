@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Kotlin-Start
-image: /assets/img/fixit_img/hyperlink.png
 accent_image: 
   background: url('/assets/img/change_img/book.jpg') center/cover
   overlay: false
