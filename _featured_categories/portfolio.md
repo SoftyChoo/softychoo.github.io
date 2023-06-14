@@ -1,8 +1,10 @@
 ---
 layout: about
 image: /assets/img/me.png
-hide_description: false
-
+description: >
+hide_description: true
+redirect_from:
+  -
 ---
 
 ## Profile
