@@ -58,7 +58,7 @@ Minsu Choo</span>
 
 ![box_img](../assets/img/blog/box_img.png){: width="49.9%" height="auto" align="right"}
 
-
+          
 
 | [**폐지모아**](https://softychoo.github.io/projects/2022-11-30-pejimoa/) | [BOX KEEPER](https://softychoo.github.io/projects/2022-11-30-pejimoa/) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
