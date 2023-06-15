@@ -49,7 +49,7 @@
   height: 10rem !important;
   float: left;
   box-sizing: content-box;
-  border: 1rem solid var(--body-bg);
+  border: none; //1rem solid var(--body-bg);
   transition: border-color 1s ease;
   margin-top: -1.5rem;
   margin-right: -1rem;
