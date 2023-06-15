@@ -8,8 +8,6 @@ redirect_from:
 
 ## Profile
 
-<!--author-->![IMG_2844](../assets/img/blog/IMG_2844.jpg){: width="30%" height="auto" align="left"}
-
 <center>
 <span style="font-size:170%;font-weight:bold;">
 Minsu Choo</span>
