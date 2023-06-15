@@ -1,7 +1,6 @@
 ---
 layout: about
 image: /assets/img/me.png
-description: >
 hide_description: true
 redirect_from:
   -
@@ -10,14 +9,15 @@ redirect_from:
 ## Profile
 
 <!--author-->
+
 <center>
 <span style="font-size:170%;font-weight:bold;">
 Minsu Choo</span>
 </center>
 
 
-
 <br>
+
 ## Personal Data
 
 ---
