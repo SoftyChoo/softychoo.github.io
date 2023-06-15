@@ -56,7 +56,7 @@ U+2002는 En Space라고 불리는 공간 문자이다. 이 문자는 일반 스
 ![fixabout2](../../../assets/img/blog/fixabout2.png){: width="90%" height="auto" align="center"}
 
 - 위의 (U+2002)를 적용한 결과 다음처럼 성공적으로 공백이 적용된 것을 볼 수 있다.
-- (U+2002)는 https://www.compart.com/en/unicode/U+2002 여기서 복사할 수 있다.
+- (U+2002)는 <https://www.compart.com/en/unicode/U+2002> 여기서 복사할 수 있다.
 
 
 
