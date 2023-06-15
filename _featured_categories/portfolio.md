@@ -8,13 +8,13 @@ redirect_from:
 
 ## Profile
 
+![image-20230616000446050](../assets/img/blog/image-20230616000446050.png){: width="30%" height="auto" align="left"}
 <center>
 <span style="font-size:170%;font-weight:bold;">
 Minsu Choo</span>
 </center>
 
 
-<br>
 
 ## Personal Data
 
