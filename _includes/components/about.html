@@ -5,6 +5,15 @@
 
     {% assign about_heading = site.data.strings.about | default:"About" %}
     {% include components/author.html author=author heading=about_heading heading_tag='h2' %}
+
+
+
+
+    <div class="author-body-description" style="text-align: center;">
+      <span style = " font-size:1.4em;  color: rgb(0, 0, 0);"><strong>{{ author.name | markdownify }}</strong></span>
+      <b style = "font-size:0.8em; color: rgb(141, 141, 141);">{{ author.about | markdownify }}</b>
+   </div>
+
   </aside>
 
 {% endif %}
