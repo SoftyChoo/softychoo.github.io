@@ -56,17 +56,13 @@ Minsu Choo</span>
 ---
 ![peji_img](../assets/img/blog/peji_img.png){: width="49.9%" height="auto" align="left"}
 
-![box_img](../assets/img/blog/box_img.png){: width="49.9%" height="auto" align="right"}<br/>
+![box_img](../assets/img/blog/box_img.png){: width="49.9%" height="auto" align="right"}
+
+
 
 | [**폐지모아**](https://softychoo.github.io/projects/2022-11-30-pejimoa/) | [BOX KEEPER](https://softychoo.github.io/projects/2022-11-30-pejimoa/) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 자원 재생 활동가의 활동환경을 개선하여 상인, 노인, 환경 모두에게모두에게 도움을 주기위해 기획된 어플리케이션 | 택배 도착여부를 실시간으로 확인할 수 있게하여 도난사고를 예방과 더불어 고객의 편의를 보장 해주는 시스템 |
-
-
-
-| [**폐지모아**](https://softychoo.github.io/projects/2022-11-30-pejimoa/) | [BOX KEEPER](https://softychoo.github.io/projects/2022-11-30-pejimoa/) |
-| :----------------------------------------------------------- | :----------------------------------------------------------- |
-| 자원 재생 활동가의 활동환경을 개선하여 상인, 노인, 환경 모두에게모두에게 도움을 주기위해 기획된 어플리케이션 | 택배 도착여부를 실시간으로 확인할 수 있게하여 도난사고를 예방과 더불어 고객의 편의를 보장 해주는 시스템 |
+| 자원 재생 활동가의 활동환경을 개선하여 **상인, 노인, 환경 모두에게 도움**을 주기위해 기획된 어플리케이션 | 택배 도착여부를 실시간으로 확인할 수 있게하여 **도난사고 예방**과 **고객의 편의**를 보장 해주는 시스템 |
 
 
 
