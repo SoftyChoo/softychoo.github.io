@@ -11,15 +11,8 @@ redirect_from:
 ![image-20230616000446050](../assets/img/blog/image-20230616000446050.png){: width="30%" height="auto" align="left"}
 <center>
 <span style="font-size:170%;font-weight:bold;">
-Minsu Choo<br/><br/></span>
-<span style="font-size:130%;">
-안녕하세요 안드로이드 개발자 추민수입니다.<br/>
-개발자 블로그를 운영중입니다.<br/>
-항상 발전하기 위해서 노력중입니다.</span>
-<center/>
-
-  
-
+Minsu Choo</span>
+</center>
 ---
 
 
