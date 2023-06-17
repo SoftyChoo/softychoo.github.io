@@ -13,9 +13,13 @@ redirect_from:
 <span style="font-size:170%;font-weight:bold;">
 Minsu Choo</span>
 </center>
-<center>안녕하세요 안드로이드 개발자 추민수입니다.<center/>
-<center>개발자 블로그를 운영중입니다.<center/>
-<center>항상 발전하기 위해서 노력중입니다.<center/>
+<center>
+  <span>
+    안녕하세요 안드로이드 개발자 추민수입니다.<br/>
+		개발자 블로그를 운영중입니다.<br/>
+		항상 발전하기 위해서 노력중입니다.
+  </span>
+<center/>
 
   
 
