@@ -56,6 +56,8 @@ menu:
     submenu:   
     - title:           Kotlin
       url:             /kotlin/
+    - title:           Flutter
+      url:             /flutter/
     - title:           Algorithm
       url:             /algorithm/
     - title:           Fix-It

@@ -8,5 +8,5 @@ description: >
 related_posts:
     - Algorithmic Adventure
 list: true
-order: 2
+order: 3
 ---
