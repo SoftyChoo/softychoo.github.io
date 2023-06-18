@@ -12,7 +12,7 @@ redirect_from:
 <center>
 <span style="font-size:170%;font-weight:bold;">
 Minsu Choo</span>
-<span>안녕하세요</span>
+<span><br/><br/>안녕하세요</span>
 </center>
 
 
