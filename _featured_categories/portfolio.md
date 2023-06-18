@@ -12,7 +12,7 @@ redirect_from:
 <center>
 <span style="font-size:170%;font-weight:bold;">
 Minsu Choo</span>
-<span><br/><br/>안녕하세요</span>
+<span><br/><br/>안녕하세요<br/>어플리케이션 개발자 추민수입니다.<br/>항상 성장하기 위해 끊임없이 노력중입니다.</span>
 </center>
 
 
