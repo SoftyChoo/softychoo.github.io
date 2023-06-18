@@ -1,7 +1,7 @@
 ---
 layout: list
 category: devlog
-bigtitle: Fix-ㅑt
+bigtitle: Fix-it
 slug: fix-it
 description: >
     Programming Puzzles
