@@ -4,7 +4,7 @@ category: devlog
 bigtitle: Flutter
 slug: flutter
 description: >
-    Android,IOS Application Development Playground
+    Android, IOS Application Development Playground
 related_posts:
     - 
 list: true
