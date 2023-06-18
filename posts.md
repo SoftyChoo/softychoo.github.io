@@ -1,6 +1,11 @@
 ---
 layout: list
-title: Posts
+bigtitle: Posts
+slug: posts
+
+menu: true
+submenu: true
+
 description: >
   포스팅 전체보기 
 grouped: true
@@ -17,3 +22,5 @@ grouped: true
 [Devlog]: /devlog/
 [Projects]: /projects/
 [Portfolio]: /portfolio/
+
+
