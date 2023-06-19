@@ -1,10 +1,10 @@
 ---
 layout: list
 category: devlog
-bigtitle: Flutter
+bigtitle: flutter
 slug: flutter
 description: >
-    Android, IOS Application Development Playground
+    Android & IOS Application Development Playground
 related_posts:
     - 
 list: true
