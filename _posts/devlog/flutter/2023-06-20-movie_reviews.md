@@ -17,7 +17,7 @@ categories :
 
 ---
 
-# 3 플러터 개발
+# [개발일지] movie_reviews
 
 
 
