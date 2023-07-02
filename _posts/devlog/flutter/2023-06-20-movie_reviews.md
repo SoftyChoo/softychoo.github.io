@@ -17,7 +17,7 @@ categories :
 
 ---
 
-# [개발일지] movie_reviews
+# [개발일지] Movie_Reviews
 
 
 
