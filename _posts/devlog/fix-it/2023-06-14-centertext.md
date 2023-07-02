@@ -7,7 +7,7 @@ accent_image:
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
-  Center Text
+  fixNote
 invert_sidebar: true
 categories :
  - devlog

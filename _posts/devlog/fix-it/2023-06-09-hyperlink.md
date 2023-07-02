@@ -8,7 +8,7 @@ accent_image:
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
-  Add HyperLink!
+  fixNote
 invert_sidebar: true
 categories :
  - devlog
