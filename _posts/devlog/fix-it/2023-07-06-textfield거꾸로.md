@@ -18,9 +18,51 @@ categories :
 
 ---
 
-# [Git Blog] About 이미지 크기변경
+# [Flutter] TextField 거꾸로 입력될 때
+
+플러터 앱개발 중 textField에 타자기로 입력할 때 거꾸로 입력되는 문제점을 발견했다.
+
+기존 코드
+
+```dart
+TextField(
+              controller: contentController,
+              maxLines: 5,
+              decoration: InputDecoration(
+                border: OutlineInputBorder(
+                  borderRadius: BorderRadius.circular(10.0),
+                ),
+                hintText: '내용을 입력해주세요',
+                filled: true,
+                fillColor: Colors.white,
+              ),
+              onChanged: (value) {
+                contentController.text = value;
+              },
+            ),
+```
 
 
 
-Portfolio의 Project를 수정하던 중 프로젝트명만 적혀있는 것이 가시성이 떨어진다고 판단해 사진과 함께 하이퍼링크를 추가한다면 가시성 향상과 더불어 관심도 유발하는 효과가 있을 것 같아 사진과 HyperLink 추가하기로 하였다.
+수정코드
 
+```dart
+TextField(
+              controller: contentController,
+              maxLines: 5,
+              decoration: InputDecoration(
+                border: OutlineInputBorder(
+                  borderRadius: BorderRadius.circular(10.0),
+                ),
+                hintText: '내용을 입력해주세요',
+                filled: true,
+                fillColor: Colors.white,
+              ),
+            ),
+```
+
+
+
+Onchange를 사용해야 하는줄 알았는데 상관 없었다..
+
+그냥 OnChange를 제거하면 된다.
