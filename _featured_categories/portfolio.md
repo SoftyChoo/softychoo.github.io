@@ -73,8 +73,6 @@ redirect_from:
 
 
 ## Project
-### 	
-
 ### [ JAVA ]
 
 ---
@@ -89,17 +87,13 @@ redirect_from:
 
 ---
 
-
-
 ### [ Flutter ]
 
 ---
 
 [**MyBucket**](https://softychoo.github.io/projects/2023-07-07-MyBucket/) : 나만의 버킷리스트를 편리하게 등록하고 관리할 수 있게 도와주는 애플리케이션
 
-
-
-
+[**'A' BAR**](https://softychoo.github.io/projects/2023-07-14-ABAR/) : '칵테일 바'를 컨셉으로 만든 팀원소개 애플리케이션
 
 ---
 
