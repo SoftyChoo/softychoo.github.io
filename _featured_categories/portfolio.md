@@ -102,8 +102,6 @@ redirect_from:
 
 
 
-
-
 ---
 <!-- -2020. 07 – 2020. 11-->
 <!--Work place name and what i did -->
