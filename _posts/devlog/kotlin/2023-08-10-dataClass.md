@@ -19,7 +19,7 @@ categories :
 
 ---
 
-# [Android Studio] DataClass
+# [Android Studio] Data Class
 
 
 
