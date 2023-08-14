@@ -18,25 +18,18 @@ categories :
 
 
 
-
-
-
-
-
-
-
-
 ---
 
 # [Android Error] SDK location not found 에러해결 
+
+
 
 {:toc}
 
 ## 상황
 
-Android Studio를 사용하여 협업을 진행하던 중 자주 발생한 오류가 있는데
-
-바로바로  **SDK location not found** 에러이다.
+- Android Studio를 사용하여 협업을 진행하던 중 자주 발생한 오류가 있는데
+  바로바로  **SDK location not found** 에러이다.
 
 
 
@@ -48,11 +41,9 @@ Android Studio를 사용하여 협업을 진행하던 중 자주 발생한 오�
 
 ## 해결
 
-영어 해석과 같이 (**SDK location not found**) SDK 경로를 찾을 수 없어서 발생하는 에러이다.
+- 영어 해석과 같이 (**SDK location not found**) SDK 경로를 찾을 수 없어서 발생하는 에러이다.
 
-
-
-주로 협업을 진행하면서 Mac/Window등 개발자들간 OS가 달라서 발생하는 에러이다.
+- 이 에러는 주로 협업을 진행하면서 Mac/Window등 개발자들간 OS가 달라서 발생하는 에러이다.
 
 
 
