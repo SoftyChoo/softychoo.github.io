@@ -39,7 +39,7 @@ categories :
 - 뷰 바인딩을 허용하면 각 Layout마다 바인딩 클래스를 자동으로 생성하는데, Layout에 ID가 있는 뷰에 직접 참조를 할 수 있다. 
 - 대부분의 경우 뷰 바인딩은 **`findViewById`**를 대체한다.
 
-#### 
+
 
 ## 👍🏻 View Binding의 장점
 
