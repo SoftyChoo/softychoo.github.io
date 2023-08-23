@@ -256,3 +256,9 @@ override fun onCreate(savedInstanceState: Bundle?) {
 
 - 다음의 코드는 뷰를 클릭했을 때 클릭한 뷰가 몇번 째 뷰인지를 받아와 Toast메시지로 띄워주는 코드이다.
 - 현재 코드에선 position만 불러와 주었지만 **`view`**를 가져오면 내가 선택한 뷰를 가져와 줄 수 있다.
+
+
+
+## 🎉 완성본(ListView, IMG GridView)
+
+<img src ="../../../assets/img/blog/image-20230823174718979.png" width = "50%"><img src ="../../../assets/img/blog/gv_practive.png" width = "50%">
