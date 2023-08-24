@@ -38,7 +38,7 @@ categories :
 
 ## 📌  리사이클러 뷰(Recycler View)란?
 
-- **RecyclerView는 한정적인 화면에 많은 데이터를 넣을 수 있는 View이다.**
+- >**RecyclerView는 한정적인 화면에 많은 데이터를 넣을 수 있는 View이다.**
 - **Recycle을 한국어로 하면 재활용하다라는 뜻이다.**
 - **즉, View를 재활용해서 사용하는 방법이다.**어댑터 뷰의 항목 하나는 단순한 문자열이나 이미지뿐만 아니라,다수의 문자열이나 이미지를 포함하는 임의의 뷰가 될 수 있다.
 
@@ -281,7 +281,7 @@ class RecyclerViewActivity : AppCompatActivity() {
 }
 ```
 
-#### [⭐️LinearLayoutManager⭐️]() ⬅ 클릭하여 알아보기!!
+#### [⭐️LayoutManager⭐️]() ⬅ 클릭하여 알아보기!!
 
 
 
