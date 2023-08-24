@@ -281,7 +281,7 @@ class RecyclerViewActivity : AppCompatActivity() {
 }
 ```
 
-#### [⭐️LayoutManager⭐️]() ⬅ 클릭하여 알아보기!!
+#### [⭐️LayoutManager⭐️](https://softychoo.github.io/2023-08-24-LayoutManager/) ⬅ 클릭하여 알아보기!!
 
 
 
