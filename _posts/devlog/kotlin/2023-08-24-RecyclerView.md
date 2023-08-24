@@ -289,6 +289,6 @@ class RecyclerViewActivity : AppCompatActivity() {
 
 
 
-## 🎉 완성본(ListView, IMG GridView)
+## 🎉 완성본
 
 <img src ="../../../assets/img/blog/../../../assets/img/blog/image-20230824145852690.png" width = "50%">
