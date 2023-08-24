@@ -124,7 +124,7 @@ categories :
 data class MyItem(val aIcon:Int, val aName:String, val aAge:String) {}
 ```
 
-### [데이터클래스(Data Class)란?](https://softychoo.github.io/devlog/kotlin/2023-08-10-dataClass/) ⬅ 클릭하여 알아보기!!
+#### [데이터클래스(Data Class)란?](https://softychoo.github.io/devlog/kotlin/2023-08-10-dataClass/) ⬅ 클릭하여 알아보기!!
 
 
 
@@ -178,9 +178,9 @@ class CustomViewAdapter(val mContext: Context, val mItems: MutableList<MyItem>) 
 
 
 
-#### 4. 메인화면 레이아웃에 **ListView 위젯 정의**
+#### 4.화면 레이아웃에 **ListView 위젯 정의**
 
-- **메인 화면 레이아웃(예,activity_main.xml)에 ListView위젯을 추가한다.**
+- **화면 레이아웃에 ListView위젯을 추가한다.**
 - **XML레이아웃 파일에 정의된 ListView위젯을 Kotlin코드에서 참조하기 위하여 id속성을정의한다.**
 
 ##### Activity_custom_view.xml
@@ -188,9 +188,9 @@ class CustomViewAdapter(val mContext: Context, val mItems: MutableList<MyItem>) 
 ```kotlin
 ...
 <androidx.recyclerview.widget.RecyclerView
-		android:id="@+id/recycelrView"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"/>
+		 android:id="@+id/listView"
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
 ...
 ```
 
