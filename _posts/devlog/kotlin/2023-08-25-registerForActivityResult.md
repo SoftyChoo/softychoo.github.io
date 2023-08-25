@@ -25,7 +25,7 @@ categories :
 
 ---
 
-# [Kotlin] registerForActivityResult란?
+# [Kotlin] ⭐️registerForActivityResult란?⭐️
 
 기존 데이터를 주고받을 때 사용했던 `startActivityForResult()`가 **derpecated**되고 대체로 나온 **`registerForActivityResult()`**에 대해서 알아보자!
 
