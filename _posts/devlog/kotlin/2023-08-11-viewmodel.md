@@ -21,7 +21,7 @@ categories :
 
 ---
 
-# [Android JetPack] View ßModel
+# [Android JetPack] ViewModel
 
 
 
