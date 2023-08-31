@@ -20,7 +20,7 @@ categories :
 
 ---
 
-# [Android Error] SDK location not found 에러해결 
+# [Android/Kotlin] SDK location not found 에러해결 
 
 
 

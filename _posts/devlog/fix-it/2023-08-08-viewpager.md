@@ -26,7 +26,7 @@ categories :
 
 ---
 
-# [Android] ViewPager + TabLayout을 사용해 스와이프 뷰 만들기
+# [Android/Kotlin] ViewPager + TabLayout을 사용해 스와이프 뷰 만들기
 
 {:toc}
 

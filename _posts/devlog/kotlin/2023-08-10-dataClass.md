@@ -19,7 +19,7 @@ categories :
 
 ---
 
-# [Android] Data Class
+# [Android/Kotlin] Data Class
 
 
 

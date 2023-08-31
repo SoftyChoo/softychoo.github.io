@@ -24,7 +24,7 @@ categories :
 
 ---
 
-# [Kotlin] 리사이클러 뷰(Recycler View)란?
+# [Android/Kotlin] 리사이클러 뷰(Recycler View)란?
 
 
 

@@ -21,7 +21,7 @@ categories :
 
 ---
 
-# [Kotlin] 뷰 바인딩(View Binding)이란?
+# [Android/Kotlin] 뷰 바인딩(View Binding)이란?
 
 
 

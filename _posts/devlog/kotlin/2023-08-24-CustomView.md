@@ -23,7 +23,7 @@ categories :
 
 ---
 
-# [Kotlin] 커스텀 뷰(Custom View)란?
+# [Android/Kotlin] 커스텀 뷰(Custom View)란?
 
 
 

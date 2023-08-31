@@ -24,7 +24,7 @@ categories :
 
 ---
 
-# [Kotlin] RecyclerView LayoutManager 사용
+# [Android/Kotlin] RecyclerView LayoutManager 사용
 
 
 

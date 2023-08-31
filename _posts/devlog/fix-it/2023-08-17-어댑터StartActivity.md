@@ -16,7 +16,7 @@ categories :
 
 ---
 
-# [Kotlin] Adaptor,ViewHolder에서 StartActivity 실행하는 방법
+# [Android/Kotlin] Adaptor,ViewHolder에서 StartActivity 실행하는 방법
 
 {:toc}
 
@@ -39,5 +39,4 @@ class ViewHolder(view: View) : RecyclerView.ViewHolder(view) {
         }
     }
 ```
-
 

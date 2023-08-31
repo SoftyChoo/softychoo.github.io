@@ -15,7 +15,7 @@ categories :
 
 ---
 
-# [Android] recyclerView 가로 스크롤 하는법
+# [Android/Kotlin] recyclerView 가로 스크롤 하는법
 
 {:toc}
 

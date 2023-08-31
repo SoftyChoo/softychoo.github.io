@@ -21,7 +21,7 @@ categories :
 
 ---
 
-# [TIL] Single-expression function & SingleTon
+# [Android/Kotlin] [TIL] Single-expression function & SingleTon
 
 단일표현식함수와 싱글톤에 대해서 알아보자
 

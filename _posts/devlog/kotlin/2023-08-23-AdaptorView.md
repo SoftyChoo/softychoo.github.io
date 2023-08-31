@@ -22,7 +22,7 @@ categories :
 
 ---
 
-# [Kotlin] 어댑터 뷰(Adaptor View)란?
+# [Android/Kotlin] 어댑터 뷰(Adaptor View)란?
 
 
 
