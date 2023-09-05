@@ -22,10 +22,6 @@ categories :
 
 {:toc}
 
-
-
-
-
 ## 상황
 
 기존에 Activity끼리 데이터를 전달하며 intent를 통해 데이터를 전달해 주던 중 DataClass객체를 통째로 전달하고 싶어 객체를 **직렬화** 하는 방법을 찾아보았다.
@@ -35,8 +31,6 @@ categories :
 > 반대로 역 직렬화란 직렬화를 통해 변환된 객체를 다시 객체 형태로 읽어내기 위한 것이다. 
 
 오늘은 navigation 라이브러리에서 지원하는 **Serializable**, **Parcelable** 두가지를 알아보고 Parcelable을 적용하는 방법까지 알아보도록 하자
-
-
 
 
 
