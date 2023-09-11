@@ -19,7 +19,7 @@ categories :
 
 ---
 
-# [Android/Kotlin] Serializable & Parcelable
+# [Android/Kotlin],[TroubleShooting] registerForActivityResult 권한 콜백
 
 {:toc}
 
