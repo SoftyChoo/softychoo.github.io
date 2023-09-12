@@ -27,9 +27,56 @@ categories :
 
 * toc
 {:toc}
+## 📌 ViewModel
+
+- ViewModel은 비즈니스 로직을 캡슐화하고 UI에 상태를 나타낸다.
+
+- 주요 이점은 **상태**를 저장하여 구성이 변경되어도 이를 **유지**하는 것이라고 한다. 즉 구성변경(화면 회전) 시 UI가 데이터를 다시 가져올 필요가 없다는 것을 의미한다. 또한 비즈니스 로직에 대한 **엑세스 권한을 제공**한다.
 
 
-먼저 ViewModel은 **MVVM ViewModel**과 **ACC ViewModel**로 나뉜다.
+
+
+
+#### UI Layer
+
+- UI의 역할은 **화면에 애플리케이션 데이터를 표시**하고 **사용자와 상호작용**하는 것이다.
+
+>  상호작용이란 버튼 클릭, 네트워크 처리, 데이터의 변경 등을 의미
+
+- UI는 **데이터 레이어**에서 가져온 애플리케이션 상태를 **시각적**으로 나타냄
+
+
+
+<img src = "../../../assets/img/blog/image.png"  width = "50%"><img src = "../../../assets/img/blog/image (1).png"  width = "50%">
+
+
+
+- ViewModel에서 **Data Layer에 있는 데이터를 가져옴**
+- ViewModel UI에 사용될 **상태를 처리**하고 UI Layer에 **이벤트를 알리거나 상태를 업데이트**함
+- UI Layer는  ViewModel에 이벤트를 전송함
+
+
+
+[ViewModel(Developer)](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ko)
+
+
+
+
+
+### UI State
+
+- LiveData
+- Flow
+
+
+
+
+
+
+
+
+
+ViewModel은 **MVVM ViewModel**과 **ACC ViewModel**로 나뉜다.
 
 
 
