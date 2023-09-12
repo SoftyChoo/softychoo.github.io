@@ -41,7 +41,7 @@ categories :
 
 registerForActivityResult의 권한을 콜백으로 받아서 해결완료
 
-```
+```kotlin
 private val permissionLauncher = registerForActivityResult(ActivityResultContracts.RequestPermission()) { isGranted ->
     if (isGranted) {
         Toast.makeText(context,"권한 허용",Toast.LENGTH_SHORT).show()
