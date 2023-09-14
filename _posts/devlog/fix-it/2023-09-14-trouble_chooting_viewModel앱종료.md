@@ -66,3 +66,4 @@ private fun addItemToBookmarkTab(item: TodoModel) {
 ## 해결 및 알게된 점
 
 해결하기 위해 MainActivity에 MainView모델을 하나를 두고 바로 ViewModel에 접근해 데이터를 추가, 삭제하는 등 작업을 해볼 생각이다.
+
