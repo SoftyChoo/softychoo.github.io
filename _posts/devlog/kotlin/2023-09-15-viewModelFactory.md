@@ -31,10 +31,6 @@ categories :
 {:toc}
 
 
-
-
-[ListAtapter(Developer)](https://developer.android.com/reference/androidx/recyclerview/widget/ListAdapter)
-
 ## 📌 ViewModel Factory?
 
 - ViewModel을 생성하는데 도움을 주는 Class이며 의존성 주입을 가능하게 한다.
