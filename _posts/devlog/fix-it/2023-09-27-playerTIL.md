@@ -45,7 +45,7 @@ categories :
 
 
 
-##### [gg](https://softychoo.github.io/projects/2023-09-22-Kakao%EC%8B%A0%EC%9E%85%EC%B1%84%EC%9A%A9%EA%B3%BC%EC%A0%9C/)  ⬅︎ 기능에 대한 설명은 여기 링크에 작성해놓았다 !!
+##### [클릭!!](https://softychoo.github.io/devlog/fix-it/2023-09-27-youtubePlayer/)  ⬅︎ 기능에 대한 설명은 여기 링크에 작성해놓았다 !!
 
 
 
