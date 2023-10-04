@@ -12,11 +12,8 @@ redirect_from:
 <center>
 <span style="font-size:170%;font-weight:bold;">
 <br/>Minsu Choo</span>
-<span><br/><br/>안녕하세요<br/>어플리케이션 개발자 추민수입니다.<br/>항상 성장하기 위해 끊임없이 노력중입니다.<br/><br/><br/></span>
+<span><br/><br/>Welcome<br/>Minsu's DevLog!!<br/><br/><br/><br/></span>
 </center>
-
-
-
 
 
 
@@ -54,8 +51,14 @@ redirect_from:
 
 - 주최, 주관: 한전KDN(주)
 
-- an encouragement award
+- an Encouragement Award
 
+**2023 캡스톤 디자인 경진대회**
+
+- 주최, 주관: 조선대학교 AI융합대학
+
+- Silver Award
+  
   
 
 
