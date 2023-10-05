@@ -26,7 +26,7 @@ categories :
 
 ---
 
-# [Android/Kotlin] Custom Dialog + Dialog Fragment로 변경
+# [Android/Kotlin] Custom Dialog
 
 {:toc}
 
