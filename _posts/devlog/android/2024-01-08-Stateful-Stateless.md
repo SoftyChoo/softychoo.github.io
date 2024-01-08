@@ -54,9 +54,9 @@ Compose의 컴포저블 함수는 2종류(Stateful, Stateless)로 나뉜다. 각
 
 [[ Develpoer ]](https://developer.android.com/jetpack/compose/state?hl=ko#stateful-vs-stateless)
 
-> `remember`를 사용하여 객체를 저장하는 컴포저블은 **내부 상태를 생성하여 컴포저블을 *스테이트풀(Stateful)\*로 만듭니다.** `HelloContent`는 내부적으로 `name` 상태를 보존하고 수정하므로 스테이트풀(Stateful) 컴포저블의 한 예가 됩니다. 이는 호출자가 상태를 제어할 필요가 없고 상태를 직접 관리하지 않아도 상태를 사용할 수 있는 경우에 유용합니다. 그러나 내부 상태를 갖는 컴포저블은 재사용 가능성이 적고 테스트하기가 더 어려운 경향이 있습니다.
+> `remember`를 사용하여 객체를 저장하는 컴포저블은 **내부 상태를 생성하여 컴포저블을스테이트풀(Stateful)로 만듭니다.** HelloContent`는 내부적으로 `name 상태를 보존하고 수정하므로 스테이트풀(Stateful) 컴포저블의 한 예가 됩니다. 이는 호출자가 상태를 제어할 필요가 없고 상태를 직접 관리하지 않아도 상태를 사용할 수 있는 경우에 유용합니다. 그러나 내부 상태를 갖는 컴포저블은 재사용 가능성이 적고 테스트하기가 더 어려운 경향이 있습니다.
 >
-> ***스테이트리스(Stateless)\* 컴포저블은 상태를 갖지 않는 컴포저블입니다.** 스테이트리스(Stateless)를 달성하는 한 가지 쉬운 방법은 [상태 호이스팅](https://developer.android.com/jetpack/compose/state?hl=ko#state-hoisting)을 사용하는 것입니다.
+> **스테이트리스(Stateless) 컴포저블은 상태를 갖지 않는 컴포저블입니다.** 스테이트리스(Stateless)를 달성하는 한 가지 쉬운 방법은 [상태 호이스팅](https://developer.android.com/jetpack/compose/state?hl=ko#state-hoisting)을 사용하는 것입니다.
 >
 > 재사용 가능한 컴포저블을 개발할 때는 동일한 컴포저블의 스테이트풀(Stateful) 버전과 스테이트리스(Stateless) 버전을 모두 노출해야 하는 경우가 있습니다. 스테이트풀(Stateful) 버전은 상태를 염두에 두지 않는 호출자에게 편리하며, 스테이트리스(Stateless) 버전은 상태를 제어하거나 끌어올려야 하는 호출자에게 필요합니다.
 
