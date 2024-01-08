@@ -51,7 +51,8 @@ Compose의 컴포저블 함수는 2종류(Stateful, Stateless)로 나뉜다. 각
 
 
 자세히 알아보기 위해 먼저 Developer 의 설명을 봐보자 
-https://developer.android.com/jetpack/compose/state?hl=ko#stateful-vs-stateless
+
+[[ Develpoer ]](https://developer.android.com/jetpack/compose/state?hl=ko#stateful-vs-stateless)
 
 > `remember`를 사용하여 객체를 저장하는 컴포저블은 **내부 상태를 생성하여 컴포저블을 *스테이트풀(Stateful)\*로 만듭니다.** `HelloContent`는 내부적으로 `name` 상태를 보존하고 수정하므로 스테이트풀(Stateful) 컴포저블의 한 예가 됩니다. 이는 호출자가 상태를 제어할 필요가 없고 상태를 직접 관리하지 않아도 상태를 사용할 수 있는 경우에 유용합니다. 그러나 내부 상태를 갖는 컴포저블은 재사용 가능성이 적고 테스트하기가 더 어려운 경향이 있습니다.
 >
@@ -72,7 +73,9 @@ https://developer.android.com/jetpack/compose/state?hl=ko#stateful-vs-stateless
 
 다음으로 Codelabs 의 설명을 살펴보자
 
-https://developer.android.com/codelabs/jetpack-compose-state?hl=ko&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fcompose%3Fhl%3Dko%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fjetpack-compose-state#8
+[[ Codelabs ]](https://developer.android.com/codelabs/jetpack-compose-state?hl=ko&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fcompose%3Fhl%3Dko%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fjetpack-compose-state#8)
+
+
 
 > 구성 가능한 함수에서 모든 상태를 추출할 수 있는 경우 결과로 생성되는 구성 가능한 함수를 스테이트리스(Stateless)라고 합니다.
 >
