@@ -48,6 +48,8 @@ categories :
 
 Compose의 컴포저블 함수는 2종류(Stateful, Stateless)로 나뉜다. 각각의 살펴보면 상태를 가지고 있다면 Stateful 상태를 가지고 있지 않다면 Stateless로 불리지 않을까 유추가 된다.
 
+
+
 자세히 알아보기 위해 먼저 Developer 의 설명을 봐보자 
 https://developer.android.com/jetpack/compose/state?hl=ko#stateful-vs-stateless
 
@@ -87,9 +89,7 @@ https://developer.android.com/codelabs/jetpack-compose-state?hl=ko&continue=http
 
 
 
-총 정리를 해보자면 다음과 같다.
-
-## 📌 Stateful & Stateless Composable
+## 📌 Stateful & Stateless Composable란?
 
 | Stateful Composable                                        | Stateless Composable                                         |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
@@ -98,4 +98,5 @@ https://developer.android.com/codelabs/jetpack-compose-state?hl=ko&continue=http
 
 
 
-다음번엔 자신이 가지고 있는 상태를 부모 Composable 로 넘겨주어 자기 자신을 Stateless Composable로 바꿔주는 상태 호이스팅에 대해 알아보도록 하겠다 :)
+추가적으로 developer, 코드랩 등을 보면 상태를 끌어올린다는 문구를 볼 수 있는데, 이는 자신이 가지고 있는 상태를 부모 Composable 로 넘겨주어 자기 자신을 Stateless Composable로 바꿔주는 상태 호이스팅에 대한 설명임을 확인했다. 
+그러므로 다음번엔 상태 호이스팅에 대해 알아보도록 하겠다 :)
