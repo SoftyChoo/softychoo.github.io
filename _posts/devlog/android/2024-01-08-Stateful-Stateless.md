@@ -103,3 +103,14 @@ Compose의 컴포저블 함수는 2종류(Stateful, Stateless)로 나뉜다. 각
 
 추가적으로 developer, 코드랩 등을 보면 상태를 끌어올린다는 문구를 볼 수 있는데, 이는 자신이 가지고 있는 상태를 부모 Composable 로 넘겨주어 자기 자신을 Stateless Composable로 바꿔주는 상태 호이스팅에 대한 설명임을 확인했다. 
 그러므로 다음번엔 상태 호이스팅에 대해 알아보도록 하겠다 :)
+
+
+
+<br/>
+
+
+
+## Link!!
+
+#### [State Hoisting](https://softychoo.github.io/devlog/android/2024-01-10-State-Hoisting/)
+
