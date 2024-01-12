@@ -29,7 +29,7 @@ categories :
 
 ---
 
-# [Android Jetpack Compose] Stateful & Stateless?
+# [Android Jetpack Compose] Stateful & Stateless란?
 
 {:toc}
 

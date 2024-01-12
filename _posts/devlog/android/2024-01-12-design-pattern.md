@@ -29,7 +29,7 @@ categories :
 
 ---
 
-# [Android] (Design Pattern)
+# [Android] 디자인패턴이란? (MVC, MVP, MVVM, MVI)
 
 {:toc}
 

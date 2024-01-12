@@ -29,7 +29,7 @@ categories :
 
 ---
 
-# [Android Jetpack Compose] State Hoisting
+# [Android Jetpack Compose] State Hoisting이란?
 
 {:toc}
 
