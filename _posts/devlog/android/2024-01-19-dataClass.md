@@ -19,7 +19,7 @@ categories :
 
 ---
 
-# [Android/Kotlin] Data Class
+# [Android/Kotlin] Data Class란?
 
 
 
@@ -169,7 +169,11 @@ val age = cat1.component2()
 
 - 따라서 `val (name,age) = cat1`이렇게만 적어도 위의 코드에 대한 동작을 구현해준다.
 
-##### 
+
+
+<br/>
+
+
 
 ##### 따라서 Data Class는  보일러플레이트(boilerplate) Code도 줄일 수 있어 매우 편리하고 일반 클래스에 비해 다양한 장점을 가지고있어 데이터를 다루기 너무 좋은 클래스이기 때문에 다들 DataClass를 유용하게 잘 활용해보자! :)
 
