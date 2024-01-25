@@ -42,8 +42,6 @@ categories :
 - **Recycle을 한국어로 하면 재활용하다라는 뜻이다.**
 - **즉, View를 재활용해서 사용하는 방법이다.**어댑터 뷰의 항목 하나는 단순한 문자열이나 이미지뿐만 아니라,다수의 문자열이나 이미지를 포함하는 임의의 뷰가 될 수 있다.
 
-<img src = "https://developer.android.com/static/codelabs/basic-android-kotlin-training-recyclerview-scrollable-list/img/cf10a913f9db0ee4.png?hl=ko" width = "50%"><img src = "https://developer.android.com/static/codelabs/basic-android-kotlin-training-recyclerview-scrollable-list/img/dcf4599789b9c2a1.png?hl=ko" width = "50%">
-
 
 
 ## 🤔 ListView 와 RecyclerView 차이점
@@ -51,7 +49,7 @@ categories :
 ### **ListView**
 
 - 사용자가 스크롤 할 때마다 위에 있던 아이템은 삭제되고, 맨 아래의 아이템은 생성 되길 반복한다.
-- 아이템이 100개면 100이 삭제 생성됩니다. 즉 계속 삭제와 생성을 반복하므로 성능에 좋지 않다.
+- 아이템이 100개면 100이 삭제 생성된다. 즉 계속 삭제와 생성을 반복하므로 성능에 좋지 않다.
 
 ### RecyclerView
 
@@ -156,7 +154,7 @@ categories :
 data class MyItem(val aIcon:Int, val aName:String, val aAge:String) {}
 ```
 
-#### [⭐️ 데이터클래스(Data Class)란? ⭐️](https://softychoo.github.io/devlog/kotlin/2023-08-10-dataClass/) ⬅ 클릭하여 알아보기!!
+#### [⭐️ 데이터클래스(Data Class)란? ⭐️](https://softychoo.github.io/devlog/android/2024-01-19-dataClass/) ⬅ 클릭하여 알아보기!!
 
 
 
