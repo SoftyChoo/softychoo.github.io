@@ -6,7 +6,7 @@ redirect_from:
   -
 ---
 
-## MinSu Choo
+## 👨🏻‍💻 MinSu Choo
 
 <img src = "../assets/img/blog/image-20230616000446050.png" width="30%">
 
@@ -28,6 +28,8 @@ redirect_from:
 
 ## 👨🏻‍💻 Contact & Channel
 
+---
+
 > Call : 010-2817-9282 <br/>Email: [devsoftychoo@gmail.com](mailto:devsoftychoo@gmail.com) <br/>
 > Github : [https://github.com/SoftyChoo](https://github.com/SoftyChoo) <br/>DevBlog : [https://softychoo.github.io/](https://softychoo.github.io/) <br/>
 
@@ -36,6 +38,8 @@ redirect_from:
 
 
 ## 🎓 Education
+
+---
 
 #### **Mar.2018 ~ Feb.2024 조선대학교<br/>정보통신공학 (Information and Communication ENGINEERING)**
 
@@ -67,6 +71,8 @@ redirect_from:
 
 
 ## 🏆 Awards & Certificates
+
+---
 
 #### 자격증
 
@@ -102,6 +108,8 @@ redirect_from:
 
 
 ## 🖥️ Android Skills
+
+---
 
 #### Language
 
@@ -141,16 +149,18 @@ redirect_from:
 
 ## Project
 
+---
+
 <img src = "../assets/img/blog/Group 2839 (1).png">
 
 | [매칭매니저(Matching Manager)](https://dynamic-sheep-95f.notion.site/Matching-Manager-47debe56523c4e3084486b12aa6dd4c0) |
 | :----------------------------------------------------------: |
 | 스포츠 경기 매칭, 경기장 추천, 용병 모집을 도와주는 **스포츠 매칭 플랫폼 |
 
-![_박스키퍼-002](../assets/img/blog/_박스키퍼-002-2105480.png)
+![_박스키퍼-002](../assets/img/blog/_박스키퍼-002-6450511.png)
 
 | [BOX KEEPER](https://dynamic-sheep-95f.notion.site/BOXKEEPER-3bc1d8841964443caa3a5f2e5851e16a?pvs=4) |
 | :----------------------------------------------------------: |
 | 택배 도착여부를 실시간으로 확인할 수 있게하여 **도난사고 예방**과 **고객의 편의**를 보장 해주는 시스템 |
 
-
+---
